@@ -1,4 +1,4 @@
-📄 README.md (과제 요구사항 100% 반영 버전)
+README.md
 # COVID-19 Twitter Data Analysis  
 Assignment 2 – Kotlin Functional Programming Project  
 Author: 김수하 (suhakotlin)
